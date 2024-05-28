@@ -282,7 +282,7 @@ ul li a:hover{
 .loading-circle {
     width: 100px; /* Adjust width as needed */
     height: 100px; /* Adjust height as needed */
-    background-image: url('IMAGES/logo.jpg'); /* Replace 'IMAGES/logo.jpg' with the path to your logo */
+    background-image: url('logo.jpg'); /* Replace 'IMAGES/logo.jpg' with the path to your logo */
     background-size: contain; /* Ensure the logo fits within the circle */
     background-repeat: no-repeat; /* Prevent the logo from repeating */
     background-position: center; /* Center the logo within the circle */
