@@ -111,7 +111,7 @@ ul li a:hover{
 }
 .Logo2{
     height: 500px;
-    background-image: url(IMAGES/logo.jpg);
+    background-image: url(logo.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
