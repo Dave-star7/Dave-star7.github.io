@@ -143,7 +143,7 @@ ul li a:hover{
 .BG{
     height: 200px;
     width: 100%;
-    background: linear-gradient(0deg,rgba(0,0,0,0.1),rgba(0,0,0,0.8)) ,url(IMAGES/SATELITE.jpg) no-repeat center;
+    background: linear-gradient(0deg,rgba(0,0,0,0.1),rgba(0,0,0,0.8)) ,url(SATELITE.jpg) no-repeat center;
     background-position: center;
     background-size: cover;
 }
